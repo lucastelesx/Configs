@@ -1,0 +1,12 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "window.zoomLevel": 1,
+    "workbench.activityBar.visible": false,
+    "editor.tabSize": 2
+}
